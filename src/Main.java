@@ -15,4 +15,7 @@ public class Main {
     public static void funcionUno (){
         System.out.println("Hello and welcome!");
     }
+    public static void funcionDos (){
+        System.out.println("Hello and welcome!");
+    }
 }
